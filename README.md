@@ -1,1 +1,3 @@
-# web_traffic_analytics
+The document describes a project on web and social network analytics, where the aim was to analyze the potential of three marketing campaigns run by a hypothetical company. The dataset consists of 160,000 rows, each corresponding to a different visit to a website and its clickstream. Each row also has corresponding ‘origin’ and ‘platform’ info. The data is presented in a CSV file with two columns: the first indicates the origin and the second indicates the platform. The remaining columns to the right indicate the pages the user visited.
+
+The project is carried out using Python, and the working file is a Jupyter notebook. All codes and explanations, along with the dataset, are present in the author's GitHub repository. The repository can be used as a resource for anyone looking to carry out similar projects on web and social network analytics.
